@@ -1,0 +1,9 @@
+Descompactar pasta temp no C:\
+
+Tecla Windows + R
+
+Preencher: 
+
+powershell -ExecutionPolicy Bypass -File "C:\temp\WFM REMOTE WORKER.ps1"
+
+Ctrl+Shift+Enter
